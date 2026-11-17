@@ -99,7 +99,7 @@ plt.show()
 
 ```
 ## Output
-
+![Company Revenue and Expense Trends](exp4.png)
 
 ## Result
 
